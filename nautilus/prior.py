@@ -5,6 +5,7 @@ import numbers
 import numpy as np
 from scipy.stats import uniform
 
+
 class Prior:
     """Helper class to construct prior bounds.
 
